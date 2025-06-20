@@ -8,7 +8,7 @@ I'm passionate about leveraging AI/ML technologies to build impactful, scalable 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [girivasanth.vm@gmail.com](mailto:girivasanth.vm@gmail.com)
-* 🧠  I'm learning Machine learning ,AI tools and Data Analysis
+* 🧠  I'm currently learning AI tools and Data Analysis related to Machine Learning
 * 🤝  I'm open to collaborating on AI and Machine Learning project
 
 <a href="https://www.github.com/Girivasanth" target="_blank" rel="noreferrer"><img
