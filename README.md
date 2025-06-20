@@ -12,7 +12,7 @@ I'm passionate about leveraging AI/ML technologies to build impactful, scalable 
 * 🤝  I'm open to collaborating on AI and Machine Learning project
 
 <a href="https://www.github.com/Girivasanth" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Girivasanth?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/Girivasanth?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -30,9 +30,11 @@ src="https://img.shields.io/github/followers/Girivasanth?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Girivasanth"><img src="https://github-readme-stats.vercel.app/api?username=Girivasanth&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Girivasanth's GitHub stats" /></a>
+<a href="http://www.github.com/Girivasanth"><img src="https://github-readme-stats.vercel.app/api?username=Girivasanth&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Girivasanth's GitHub stats" /></a>
 
-<a href="https://github.com/Girivasanth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girivasanth&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Girivasanth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Girivasanth&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Girivasanth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girivasanth&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
