@@ -37,7 +37,7 @@ Passionate about building intelligent AI/ML systems, Computer Vision application
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### Languages
 <p align="center">
@@ -50,7 +50,8 @@ Passionate about building intelligent AI/ML systems, Computer Vision application
 </p>
 
 </td>
-<td valign="top" width="25%">
+
+<td valign="top" width="20%">
 
 ### AI / ML
 <p align="center">
@@ -61,7 +62,8 @@ Passionate about building intelligent AI/ML systems, Computer Vision application
 </p>
 
 </td>
-<td valign="top" width="25%">
+
+<td valign="top" width="20%">
 
 ### Web & Backend
 <p align="center">
@@ -73,7 +75,8 @@ Passionate about building intelligent AI/ML systems, Computer Vision application
 </p>
 
 </td>
-<td valign="top" width="25%">
+
+<td valign="top" width="20%">
 
 ### Database & Cloud
 <p align="center">
@@ -84,13 +87,10 @@ Passionate about building intelligent AI/ML systems, Computer Vision application
 </p>
 
 </td>
-</tr>
-</table>
 
----
+<td valign="top" width="20%">
 
-### 🛠 Tools & Platforms
-
+### Tools & Platforms
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
@@ -99,7 +99,10 @@ Passionate about building intelligent AI/ML systems, Computer Vision application
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
 </p>
----
+
+</td>
+</tr>
+</table>
 
 # 📌 Featured Projects
 
