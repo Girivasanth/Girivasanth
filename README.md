@@ -67,17 +67,20 @@ Synthetic dataset generation using GANs and VAEs.
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Girivasanth">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<p align="center">
+<a href="https://github.com/Girivasanth" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/girivasanth-vimalan/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+<a href="https://www.linkedin.com/in/girivasanth-vimalan/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 </p>
 
-📧 girivasanth.vm@gmail.com
+<p align="center">
+📧 <a href="mailto:girivasanth.vm@gmail.com">girivasanth.vm@gmail.com</a>
+</p>
 
 ---
 
